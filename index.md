@@ -61,7 +61,7 @@
  </article>
  </section>
  </main>
-    <footer>
+ <footer>
     <h2>Other ways to access VOA</h2>
 
     <ul>
