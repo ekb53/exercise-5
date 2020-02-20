@@ -64,31 +64,31 @@
  <footer>
     <h2>Other ways to access VOA</h2>
 
-    <ul>
+   <ul>
       <li><a href="article.html">Get our newsletter</a></li>
       <li><a href="article.html">Subsribe to our podcasts</a></li>
       <li><a href="article.html">RSS feeds</a></li>
     </ul>
 
-    <h2>About this Site</h2>
+   <h2>About this Site</h2>
 
-    <ul>
+   <ul>
       <li><a href="article.html">Privacy Notice</a></li>
       <li><a href="article.html">Abour VOA</a></li>
       <li><a href="article.html">Contact VOA</a></li>
     </ul>
 
-    <h2>Follow Us</h2>
+   <h2>Follow Us</h2>
 
-    <ul>
+   <ul>
       <li><a href="article.html">Facebook</a></li>
       <li><a href="article.html">Twitter</a></li>
       <li><a href="article.html">YouTube</a></li>
     </ul>
 
-    <h2>Site Map</h2>
+   <h2>Site Map</h2>
 
-    <ul>
+   <ul>
       <li><a href="article.html">USA</a></li>
       <li><a href="article.html">Africa</a></li>
       <li><a href="article.html">Asia</a></li>
@@ -97,7 +97,7 @@
       <li><a href="article.html">Americas</a></li>
     </ul>
 
-    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
+   <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
   </footer>
       
   </body>
